@@ -142,7 +142,3 @@ SDCLANG_VERSION_DEFS := $(OLD_SDCLANG_VERSION_DEFS)
 endif #!USE_CAMERA_STUB
 
 maomao1
-maomao2
-maomao3
-maomao5
-maomao6
